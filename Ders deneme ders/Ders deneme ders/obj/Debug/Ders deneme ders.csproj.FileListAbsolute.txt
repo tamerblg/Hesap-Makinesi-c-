@@ -1,7 +1,0 @@
-C:\Users\tamer\source\repos\Ders deneme ders\Ders deneme ders\bin\Debug\Ders deneme ders.exe.config
-C:\Users\tamer\source\repos\Ders deneme ders\Ders deneme ders\bin\Debug\Ders deneme ders.exe
-C:\Users\tamer\source\repos\Ders deneme ders\Ders deneme ders\bin\Debug\Ders deneme ders.pdb
-C:\Users\tamer\source\repos\Ders deneme ders\Ders deneme ders\obj\Debug\Ders deneme ders.csproj.AssemblyReference.cache
-C:\Users\tamer\source\repos\Ders deneme ders\Ders deneme ders\obj\Debug\Ders deneme ders.csproj.CoreCompileInputs.cache
-C:\Users\tamer\source\repos\Ders deneme ders\Ders deneme ders\obj\Debug\Ders deneme ders.exe
-C:\Users\tamer\source\repos\Ders deneme ders\Ders deneme ders\obj\Debug\Ders deneme ders.pdb
